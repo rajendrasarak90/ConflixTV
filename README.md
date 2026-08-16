@@ -14,10 +14,6 @@
   <a href="#sparkles-features"><strong>Features</strong></a> ·
    <a href="#hammer_and_wrench-jigsaw-challenges"><strong>Challenges</strong></a> ·
   <a href="#rocket-tools-heavy_plus_sign-technologies"><strong>Tools & Technologies</strong></a> ·
-  <a href="#-screenshots"><strong>Screenshots</strong></a> ·
-  <a href="#-getting-started"><strong>Getting Started</strong></a> ·
-  <a href="#white_check_mark-requirements"><strong>Requirements</strong></a> ·
-  <a href="#-license"><strong>License</strong></a> ·
 </p>
 
 <br/>
